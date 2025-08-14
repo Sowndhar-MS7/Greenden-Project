@@ -30,5 +30,4 @@ This project contains three main pages: **Home**, **Product**, and **Contact**.
 
 ## 🚀 How to Run
 1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/greenden.git
+   https://sowndhar-ms7.github.io/Greenden-Project/
