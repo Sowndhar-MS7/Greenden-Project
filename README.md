@@ -1,7 +1,6 @@
 # 🌿 Greenden Project
 
 A simple, responsive, and interactive website for an eco-friendly brand, built using **HTML**, **Tailwind CSS**, and **JavaScript**.
-link - https://sowndhar-ms7.github.io/Greenden-Project/
 ---
 
 ## 📌 Features
@@ -43,4 +42,4 @@ link - https://sowndhar-ms7.github.io/Greenden-Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sowndhar-MS7/Greenden-Project.git
+   https://github.com/Sowndhar-MS7/Greenden-Project.git
